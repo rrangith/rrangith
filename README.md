@@ -1,5 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
-- 🔭 I’m currently working at Shopify as a Production Engineer Intern
-- 💻 I’m currently studying Computer Engineering at Univerisity of Waterloo
+- 💻 I’m currently working at Datadog as a Software Engineer II
 - 🕸 Check out my [website](http://rangith.com/)
